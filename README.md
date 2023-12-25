@@ -1,7 +1,5 @@
 # softlabel-gan
-The repository for "Label Augmentation as Inter-class Data Augmentation for Conditional Image Synthesis with Imbalanced Data," WACV 2024
-<p>
-[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Katsumata_Label_Augmentation_As_Inter-Class_Data_Augmentation_for_Conditional_Image_Synthesis_WACV_2024_paper.html)
+The repository for "Label Augmentation as Inter-class Data Augmentation for Conditional Image Synthesis with Imbalanced Data," WACV 2024  [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Katsumata_Label_Augmentation_As_Inter-Class_Data_Augmentation_for_Conditional_Image_Synthesis_WACV_2024_paper.html)
 
 This repo is implemented upon the [BigGAN-PyTorch repo](https://github.com/ajbrock/BigGAN-PyTorch) and [DiffAugment repo](https://github.com/mit-han-lab/data-efficient-gans/). 
 The main dependencies are:
